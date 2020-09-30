@@ -4,7 +4,7 @@
 red='\033[1;31m'  
 yellow='\033[1;33m'
 reset='\033[0m'
-
+echo "Hax4us"
 ALPINEDIR="${PREFIX}/share/apkmod"
 BINDIR="${PREFIX}/bin"
 LIBDIR="${ALPINEDIR}/usr/lib"
